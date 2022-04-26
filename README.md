@@ -42,5 +42,28 @@ Geben wir das / nicht am Anfang an, wechseln wir vom aktuellen Verzeichnis (sieh
 
 
 # 4. new info
+
+
 # 5. new info
 
+
+# git befehle
+- git init 
+  - wir initialisieren ein git repo
+- git add .
+  - wir fügen ein
+- git commit
+  - wir committen
+- git log
+  - wir chekcken unseren aller commiten
+- git branch 
+  - wir sehen aller branches
+- git checkout -b und branch Name
+  - wir creat ein branch und wechelns auf branch
+- git push
+  - wir pushen unseren Repo auf git hub
+- git pull
+  - wir  aktualisieren unseren repo Stand
+- git Clone 
+  - wie clonen von github repos
+  
